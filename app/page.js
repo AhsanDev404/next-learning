@@ -2,6 +2,6 @@
 
 export default function Home() {
   return (
-    <div>Deploy</div>
+    <div>Deploy-Test</div>
   )
 }
